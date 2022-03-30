@@ -1,0 +1,12 @@
+Pour lancer l'application exercuter le fichier main
+Si vous n'avez pas d'interpréteur python cela ne fonctionnera pas : il vous faudra téléchrager un interpréteur python par exemple sur http://python.org
+
+Data on physical media app:
+
+I  Bar code:
+
+	Automatically understand wich format is the bar code		
+	
+	Format supported:
+		- EAN13
+		- Code128
